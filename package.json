@@ -1,6 +1,6 @@
 {
   "name": "juncture-server",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A TypeScript module for creating a bridge between React and Node.js applications, enabling graphical user interfaces for Node.js apps with real-time communication",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -33,5 +33,19 @@
   "files": [
     "dist",
     "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahgsql/juncture-server"
+  },
+  "bugs": {
+    "url": "https://github.com/ahgsql/juncture-server/issues"
+  },
+  "homepage": "https://github.com/ahgsql/juncture-server#readme",
+  "contributors": [
+    {
+      "name": "ahgsql",
+      "url": "https://github.com/ahgsql"
+    }
   ]
 }
